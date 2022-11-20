@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir Galkin</h1>
 <h3 align="center"></h3>
 
-<h3 align="left">Connect with me: v.g.galkin@gmail.com</h3>
+<h3 align="left">Connect with me: <a href="mailto:v.g.galkin@gmail.com">v.g.galkin@gmail.com</a></h3>
 <p align="left">
 </p>
 
